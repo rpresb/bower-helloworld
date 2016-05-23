@@ -1,18 +1,21 @@
 {
-  "name": "helloworld",
-  "authors": [
-    "Rodrigo De Presbiteris <rodrigo@mandae.com.br>"
-  ],
-  "description": "",
-  "main": "",
-  "license": "MIT",
-  "homepage": "",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "helloworld",
+    "authors": [
+        "Rodrigo De Presbiteris <rodrigo@mandae.com.br>"
+    ],
+    "description": "",
+    "main": "dist/helloworld.js",
+    "license": "MIT",
+    "homepage": "",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": ">=1.2.0"
+    }
 }
