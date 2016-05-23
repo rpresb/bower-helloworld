@@ -1,0 +1,18 @@
+{
+  "name": "helloworld",
+  "authors": [
+    "Rodrigo De Presbiteris <rodrigo@mandae.com.br>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
